@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940139530646",
+    "firebase_url": "https://tasktodo-c9b8c.firebaseio.com",
+    "project_id": "tasktodo-c9b8c",
+    "storage_bucket": "tasktodo-c9b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940139530646:android:e483446008688cb9fb75b7",
+        "android_client_info": {
+          "package_name": "com.example.tasktodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940139530646-6gck2clo03ug2mkf3n27lc8pc03d8jcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuPnXcORp4L0hr24MEyV6YW-HFs1_6gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940139530646-6gck2clo03ug2mkf3n27lc8pc03d8jcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
